@@ -1,2 +1,2 @@
 cd /var/www/mjs
-git pull -X theirs
+git pull -X theirs
